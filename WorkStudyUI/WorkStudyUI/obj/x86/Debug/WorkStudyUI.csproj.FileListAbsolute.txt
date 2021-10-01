@@ -1,0 +1,30 @@
+c:\users\mtang1\documents\visual studio 2010\Projects\WorkStudyUI\WorkStudyUI\bin\Debug\WorkStudyUI.exe
+c:\users\mtang1\documents\visual studio 2010\Projects\WorkStudyUI\WorkStudyUI\bin\Debug\WorkStudyUI.pdb
+c:\users\mtang1\documents\visual studio 2010\Projects\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.Form1.resources
+c:\users\mtang1\documents\visual studio 2010\Projects\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.Properties.Resources.resources
+c:\users\mtang1\documents\visual studio 2010\Projects\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.csproj.GenerateResource.Cache
+c:\users\mtang1\documents\visual studio 2010\Projects\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.exe
+c:\users\mtang1\documents\visual studio 2010\Projects\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.pdb
+C:\Users\mtang1\Documents\Visual Studio 2010\Projects\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.csproj.ResolveComReference.cache
+H:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.csproj.ResolveComReference.cache
+H:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.exe
+H:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.pdb
+E:\UCSF_Awards\WorkStudyUI\WorkStudyUI\bin\Debug\WorkStudyUI.exe.config
+E:\UCSF_Awards\WorkStudyUI\WorkStudyUI\bin\Debug\WorkStudyUI.exe
+E:\UCSF_Awards\WorkStudyUI\WorkStudyUI\bin\Debug\WorkStudyUI.pdb
+E:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.csprojResolveAssemblyReference.cache
+E:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.csproj.ResolveComReference.cache
+E:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.Form1.resources
+E:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.Properties.Resources.resources
+E:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.csproj.GenerateResource.Cache
+E:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.exe
+E:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.pdb
+F:\UCSF_Awards\WorkStudyUI\WorkStudyUI\bin\Debug\WorkStudyUI.exe.config
+F:\UCSF_Awards\WorkStudyUI\WorkStudyUI\bin\Debug\WorkStudyUI.exe
+F:\UCSF_Awards\WorkStudyUI\WorkStudyUI\bin\Debug\WorkStudyUI.pdb
+F:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.csproj.ResolveComReference.cache
+F:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.Form1.resources
+F:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.Properties.Resources.resources
+F:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.csproj.GenerateResource.Cache
+F:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.exe
+F:\UCSF_Awards\WorkStudyUI\WorkStudyUI\obj\x86\Debug\WorkStudyUI.pdb
